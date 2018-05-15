@@ -21,7 +21,7 @@
                     <On Platform="iOS" Value="tab_about.png"/>
                 </OnPlatform>
             </NavigationPage.Icon>
-            <x:Arguments>
+            <x:Arguments >
                 <views:AboutPage  />
             </x:Arguments>
         </NavigationPage>
